@@ -1,2 +1,1 @@
-# CODSOFT_CPP_Internship_Task
-CodSoft Internship 2023
+Task 4 - Word Count. Here I write a c++ program that counts the number of words in a given text file. the user will enter the file name and display the total word count. I write the program accordingly & the program will take the inputs from "Test.txt" file and give the output.
